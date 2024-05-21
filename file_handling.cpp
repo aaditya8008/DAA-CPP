@@ -57,3 +57,5 @@ int main()
   
     return 0; 
 }
+
+myfile.seekg(3, ios::beg) ;
